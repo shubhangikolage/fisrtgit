@@ -14,5 +14,5 @@ public class doWholeStudy {
 		while(i>=3);
 	}
 	
-
+// i made changes here please check
 }
